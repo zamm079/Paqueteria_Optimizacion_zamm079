@@ -1,6 +1,6 @@
 [project]
 name = "Paqueteria_Optimizacion_byzamm079"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
   { name="zamm079", email="azi3lmtz@gmail.com" },
 ]
